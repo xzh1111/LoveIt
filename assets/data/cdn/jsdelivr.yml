@@ -56,3 +56,6 @@ libFiles:
   # cookieconsent@3.1.1 https://github.com/osano/cookieconsent
   cookieconsentCSS: cookieconsent@3.1.1/build/cookieconsent.min.css
   cookieconsentJS: cookieconsent@3.1.1/build/cookieconsent.min.js
+ # waline@2.15.8 https://github.com/walinejs/waline
+  walineCSS: '@waline/client@2.15.8/dist/waline.css'
+  walineJS: '@waline/client@2.15.8/dist/waline.js'
